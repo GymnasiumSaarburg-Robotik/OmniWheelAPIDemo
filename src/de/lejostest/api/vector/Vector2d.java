@@ -1,4 +1,4 @@
-package de.lejostest.api;
+package de.lejostest.api.vector;
 
 public class Vector2d {
     private double x;

@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OmniWheelAPIDemo.iml" filepath="$PROJECT_DIR$/OmniWheelAPIDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../Dokumente-Backup/Documents/LeJOS EV3 Development Kit Sources/ev3classes/ev3classes.iml" filepath="$PROJECT_DIR$/../../Dokumente-Backup/Documents/LeJOS EV3 Development Kit Sources/ev3classes/ev3classes.iml" />
     </modules>
   </component>
 </project>

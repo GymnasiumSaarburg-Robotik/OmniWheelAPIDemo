@@ -1,6 +1,6 @@
 package de.lejostest.demo;
 
-import de.lejostest.api.Vector2d;
+import de.lejostest.api.vector.Vector2d;
 import lejos.hardware.BrickFinder;
 import lejos.hardware.ev3.EV3;
 import lejos.hardware.lcd.TextLCD;

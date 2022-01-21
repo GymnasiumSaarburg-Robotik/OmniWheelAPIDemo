@@ -95,6 +95,5 @@
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="module" module-name="ev3classes" />
   </component>
 </module>

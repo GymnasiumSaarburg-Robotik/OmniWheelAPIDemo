@@ -1,6 +1,6 @@
 package de.lejostest.demo;
 
-import de.lejostest.api.Vector2d;
+import de.lejostest.api.vector.Vector2d;
 
 public class LocalRunner {
     public static void main(String[] args) {
@@ -22,8 +22,6 @@ public class LocalRunner {
         Vector2d vector3 = new Vector2d(1.0, -1.0);
 
         Vector2d finalVector = vector1.add(vector2).add(vector3);
-
-
-
+        System.out.println(finalVector);
     }
 }

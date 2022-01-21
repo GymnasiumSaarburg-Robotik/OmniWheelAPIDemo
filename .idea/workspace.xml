@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d2ca56af-15a3-4094-bfda-bb50909b9af9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/lejostest/demo/LocalRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OmniWheelAPIDemo/de/lejostest/api/OmniWheelBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OmniWheelAPIDemo/de/lejostest/api/Vector2d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OmniWheelAPIDemo/de/lejostest/api/Wheel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OmniWheelAPIDemo/de/lejostest/api/container/UnregularMotorContainer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OmniWheelAPIDemo/de/lejostest/demo/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/de/lejostest/demo/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/lejostest/demo/EV3Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/lejostest/demo/LocalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/lejostest/demo/LocalRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +114,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Dokumente-Backup/Documents/LeJOS EV3 Development Kit Sources/ev3classes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -171,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641561487302</updated>
-      <workItem from="1642782662304" duration="844000" />
+      <workItem from="1642782662304" duration="1365000" />
     </task>
     <servers />
   </component>

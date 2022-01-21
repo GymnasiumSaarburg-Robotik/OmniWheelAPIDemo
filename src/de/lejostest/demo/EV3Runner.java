@@ -1,7 +1,5 @@
 package de.lejostest.demo;
 
-import com.sun.javafx.geom.Vec2d;
-import de.lejostest.api.OmniWheelBase;
 import de.lejostest.api.Vector2d;
 import lejos.hardware.BrickFinder;
 import lejos.hardware.ev3.EV3;
@@ -10,11 +8,8 @@ import lejos.hardware.port.SensorPort;
 import lejos.hardware.sensor.EV3ColorSensor;
 import lejos.internal.ev3.EV3Video;
 import lejos.utility.Delay;
-import org.jfree.data.xy.Vector;
 
-import java.lang.reflect.Array;
-
-public class HelloWorld {
+public class EV3Runner {
     public static void main(String[] args) {
 
         Vector2d vector2d = new Vector2d(4.0, 1.0);

@@ -12,7 +12,6 @@ public class OmniWheelBase {
     public static Port DEFAULT_PORT_B = MotorPort.B;
     public static Port DEFAULT_PORT_R = MotorPort.C;
 
-
     private Wheel leftWheel;
     private Wheel rightWheel;
     private Wheel backWheel;
